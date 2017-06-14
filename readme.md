@@ -1,6 +1,7 @@
 Before you make a screenshot, make sure to comply to these IDE configuration requirements:
 
 * Indent guides on
+* Line numbers off
 * Navigation bar on
 * Solution Explorer hidden
 * Left tool window bar contains, top to bottom: Solution, Structure, Terminal
